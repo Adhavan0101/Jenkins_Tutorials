@@ -12,6 +12,7 @@ public class Hello_Buddies {
 		System.out.println("6. Puppy");
 		System.out.println("7. Jocky");
 		System.out.println("8. Rocky");
+		System.out.println("9. Raamu");
 		
 	}
 }
